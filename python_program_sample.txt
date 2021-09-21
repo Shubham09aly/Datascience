@@ -1,0 +1,12 @@
+1. sum of all numbers in list using anonymous function.
+2. print the arithmatic table using anonymous function.
+3. print maximum element from the list using anonymous function 
+4. Python program to find the sum of n natural numbers
+5. Python program to add digits of a number
+6. Python program for addition, subtraction, multiplication and division
+7. Python program to swap two numbers
+
+
+Reference :
+-----------
+lambda function with reduce,map and filter
